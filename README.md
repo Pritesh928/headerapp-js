@@ -8,7 +8,7 @@ https://iloveheaderandwatermarkpns.netlify.app/
 
 Use DMC_HEADER-WATERMARK FOLDER COMPONENTS AND READ DOCS PROPERLY PRESENT IN THAT FOLDER FOR THIS RESULT...
 
-<img width="446" height="575" alt="image" src="https://github.com/user-attachments/assets/456700dc-93f7-4417-a2ae-f9777963c1b7" />   <img width="387" height="551" alt="image" src="https://github.com/user-attachments/assets/7241eda1-100a-4d1d-bdae-56bc8b388bb1" />
+<img width="446" height="575" alt="image" src="https://github.com/user-attachments/assets/456700dc-93f7-4417-a2ae-f9777963c1b7" />  <img width="387" height="551" alt="image" src="https://github.com/user-attachments/assets/7241eda1-100a-4d1d-bdae-56bc8b388bb1" />
 
 # User Interface
 
